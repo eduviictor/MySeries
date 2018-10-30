@@ -1,0 +1,26 @@
+*{
+    overflow: hidden;
+}
+
+.btn-delete{
+    margin-left: 5px;
+    display: inline-block;
+}
+
+
+
+
+
+@media screen and (max-width: 768px){
+    .item{
+        width: 46%;
+        margin: 0 2%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .item{
+        width: 90%;
+        margin: 0 5%;
+    }
+}

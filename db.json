@@ -2,21 +2,10 @@
   "series": [
     {
       "id": 1,
-      "name": "How I met your mother",
+      "name": "How I met your mother 2",
       "status": "watched",
       "genre": "Comédia",
       "comments": "Muito bom"
-    },
-    {
-      "id": 2,
-      "name": "Friends",
-      "status": "watching",
-      "genre": "Comédia",
-      "current": {
-        "episode": "01",
-        "season": "09"
-      },
-      "comments": "Bom para descontrair"
     },
     {
       "id": 3,
@@ -31,27 +20,6 @@
       "status": "toWatch",
       "genre": "Drama",
       "comments": "Galera fala bem"
-    },
-    {
-      "name": "Teste",
-      "status": "watched",
-      "genre": "Comédia",
-      "comments": "teste",
-      "id": 5
-    },
-    {
-      "name": "Série de ação qualquer",
-      "status": "watched",
-      "genre": "Ação",
-      "comments": "Muito boa",
-      "id": 6
-    },
-    {
-      "name": "Nova série",
-      "status": "watched",
-      "genre": "Ação",
-      "comments": "Muito massa",
-      "id": 7
     }
   ],
   "genres": [
